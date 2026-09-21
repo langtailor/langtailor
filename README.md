@@ -2,12 +2,6 @@
   <img src="images/c6c91ba9-f65b-495d-a500-dcde2959e383.png" width="980" alt="LangTailor header" />
 </p>
 
-<div align="center">
-  <img src="images/white_bg_bird_avatar_under_1MB_v2.png" width="120" alt="LangTailor icon" />
-</div>
-
-<h1 align="center">LangTailor</h1>
-
 <p align="center">
   <em>먼저 재고, 작게 가봉합니다.</em><br>
   <strong>Measure first, baste small.</strong>
